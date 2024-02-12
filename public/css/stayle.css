@@ -1,0 +1,15 @@
+
+
+h3,a{
+    color:rgb(56, 229, 241);
+}
+.bg-im{
+    background-image: url(../img/pexels-pixabay-326058\ \(1\).jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: calc(100vh - 150px);
+        position: relative;
+}
+ .container img{
+    width: 100%;
+}
